@@ -8,7 +8,7 @@ import MovieCard from './MovieCard'
 
 // key : 2610e096
 
-const API_URL = "http://www.omdbapi.com?apikey=2610e096"
+const API_URL = "https://www.omdbapi.com?apikey=2610e096"
 
 
 
